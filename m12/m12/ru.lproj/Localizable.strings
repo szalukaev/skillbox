@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  m12
+
+  Created by Сергей Залукаев on 06.04.2022.
+  
+*/
+
+"Cat" = "Кошка";
+"Label.Dog" = "Собака";
+"Main.Label.Bird" = "Птица";
+"Lace carp" = "Озерный карп";
