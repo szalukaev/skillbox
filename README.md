@@ -1,2 +1,2 @@
 # skillbox
- skillbox modules
+ skillbox modules by SWIFT
